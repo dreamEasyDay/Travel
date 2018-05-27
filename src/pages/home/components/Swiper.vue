@@ -33,14 +33,11 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.swiper-wrapper >>> .swiper-pagination-bullet-active {
-	background: #fff !important;
-}
 .swiper-wrapper {
 	width: 100%;
-	height: auto;
+	background: #ccc;
 	.swiper-img {
-		width: 100%;
+			width: 100%;
 	}
 }
 </style>
