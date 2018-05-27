@@ -11,5 +11,7 @@ export default {
 </script>
 
 <style>
-
+.swiper-wrapper .swiper-pagination-bullet-active {
+	background: #fff !important;
+}
 </style>
