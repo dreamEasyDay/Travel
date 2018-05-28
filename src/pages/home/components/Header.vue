@@ -49,7 +49,7 @@ export default {
 			width:1.24rem;
 			float: right;
 			text-align: center;
-			font-size: .4rem;
+			font-size: .28rem;
 			.arrow-icon {
 				font-size: .32rem;
 				margin-left: -.04rem;

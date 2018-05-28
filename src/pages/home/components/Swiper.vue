@@ -15,7 +15,7 @@
 export default {
 	name: 'HomeSwiper',
 	data() {
-		return{
+		return {
 			swiperOption: {
 				pagination: '.swiper-pagination',
 				loop: true
