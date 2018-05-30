@@ -54,7 +54,7 @@ exports.cssLoaders = function (options) {
     }
   }
   function resolveResouce(name) {
-      return path.resolve(__dirname, '../src/assets/styles/' + name);
+      return path.resolve(__dirname, '../src/assets/styles/scss/' + name);
   }
   function generateSassResourceLoader() {
       var loaders = [
